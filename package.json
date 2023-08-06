@@ -1,0 +1,26 @@
+{
+  "name": "ngm-reverse-number",
+  "version": "1.0.2",
+  "description": "Its basically reverse the given number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thoughtspioneer/ngm-reverse-number.git"
+  },
+  "keywords": [
+    "number-reverse",
+    "number",
+    "reverse",
+    "number",
+    "reverse"
+  ],
+  "author": "thoughtspioneer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thoughtspioneer/ngm-reverse-number/issues"
+  },
+  "homepage": "https://github.com/thoughtspioneer/ngm-reverse-number#readme"
+}
